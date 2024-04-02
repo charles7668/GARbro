@@ -3,11 +3,11 @@ GARbro
 
 Visual Novels resource browser.
 
-Requires .NET Framework v4.6 or newer (https://www.microsoft.com/net)
+Requires .NET Framework v4.8 or newer (https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
 [Supported formats](https://morkt.github.io/GARbro/supported.html)
 
-[Download latest release](https://github.com/morkt/GARbro/releases)
+[Download latest release](https://github.com/charles7668/GARbro/releases)
 
 Operation
 ---------
